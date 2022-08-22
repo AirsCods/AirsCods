@@ -21,6 +21,7 @@
 
 <div align="center">
 </div>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="background-color: #000000; background-image: linear-gradient(90deg, #000000 0%, #414d64 59%, #b9b9b9 100%); border-radius: 10px; padding: 10px">
@@ -28,7 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/figma" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <br>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
