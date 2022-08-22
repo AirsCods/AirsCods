@@ -46,8 +46,8 @@
 
   ### :fire: My Stats :
   <div align="center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=airscods&show_icons=true&theme=bear" width = 450>
-    <img src = "https://github-readme-streak-stats.herokuapp.com?user=airscods&theme=dark&hide_border=true" width = 450>
+    <img src = "https://github-readme-stats.vercel.app/api?username=airscods&show_icons=true&theme=bear" width = 400>
+    <img src = "https://github-readme-streak-stats.herokuapp.com?user=airscods&theme=dark&hide_border=true" width = 400>
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=airscods&layout=compact&theme=vision-friendly-dark" width = 350>
   </div>
 </div>
