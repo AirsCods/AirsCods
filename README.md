@@ -7,7 +7,7 @@
     <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:#@gmail.com" target="_blank">
+    <a href="mailto:#airplancods@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     </div>
