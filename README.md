@@ -1,7 +1,7 @@
 <div align="center">
     <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
     <div>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/ilya-samoletov-a10375246" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="#" target="_blank">
